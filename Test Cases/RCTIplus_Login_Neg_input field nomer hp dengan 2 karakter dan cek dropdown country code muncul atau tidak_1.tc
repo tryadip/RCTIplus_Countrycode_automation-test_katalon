@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RCTIplus_Login_Neg_input field nomer hp dengan 2 karakter dan cek dropdown country code muncul atau tidak_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4463cfaa-6947-4f56-b676-65e609395412</testCaseGuid>
+</TestCaseEntity>
